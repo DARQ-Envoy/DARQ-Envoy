@@ -306,7 +306,7 @@ font-size: 12px;
     }
     .timing{
         display: flex;
-        justify-content: space-between;
+        justify-content:space-between;
     }
     .measure{
         margin-top: 5px;
